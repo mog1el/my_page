@@ -1,0 +1,80 @@
+.index {
+    text-align: center;
+}
+
+.title {
+    margin-top: 15%;
+    font-size: 70px;
+    margin-bottom: 0.15%;
+}
+
+.subtitle {
+    font-size: 20px;
+    margin-top: 0.15%;
+    margin-bottom: 0.15%;
+}
+
+a { color:#000; text-decoration: none;}
+
+.socials {
+    font-size: 20px;
+    margin-top: 0.15%;
+}
+
+.navbar {
+    margin-top: 1%;
+    font-size: 20px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.righties {
+    float: right;
+    margin-left: 1%;
+}
+
+.entry {
+    margin-bottom: 25px;
+    border-bottom: 1px solid #000;
+}
+
+.entry-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.entry-info {
+    font-size: 1em;
+    margin: 0;
+}
+
+.entry-description {
+    margin-top: 10px;
+}
+
+.experience {
+    margin-left: 2%;
+}
+
+.experience h1 {
+    font-size: 2.2em;
+    font-weight: 700;
+    margin-bottom: 2%;
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.5%;
+}
+
+.about {
+    margin-left: 2%;
+    margin-right: 5%;
+    font-size: 20px;
+}
+
+.about h1 {
+    font-size: 2.2em;
+    font-weight: 700;
+    margin-bottom: 2%;
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.5%;
+}
